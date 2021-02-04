@@ -10,7 +10,7 @@ normal code.
 
 Source pack installation information:
 
-# Standalone source installation
+## Standalone source installation
 
 See [the Forge Documentation](http://mcforge.readthedocs.io/en/latest/gettingstarted/) online for more detailed instructions.
 
@@ -53,7 +53,7 @@ Should it still not work,
 Refer to #ForgeGradle on EsperNet for more information about the gradle environment.
 or the [Forge Project Discord](discord.gg/UvedJ9m)
 
-# Forge source installation
+## Forge source installation
 
 MinecraftForge ships with this code and installs it as part of the forge
 installation process, no further action is required on your part.
